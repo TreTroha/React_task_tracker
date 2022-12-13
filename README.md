@@ -18,7 +18,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 ---
 
 <p align="center">
-  <img src="https://github.com/TreTroha/throttle_house_mvc_social_app/blob/main/throttle_house.gif" alt="animated walkthrough" />
+  <img src="https://github.com/TreTroha/React_task_tracker/blob/main/Task_Tracker.gif" alt="animated walkthrough" />
  </p>
 
 # React Task Tracker
